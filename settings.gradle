@@ -1,0 +1,2 @@
+rootProject.name='CustomDate and TimeView with Scroll'
+include ':app'
